@@ -25,7 +25,6 @@ Customize the branding of an Okta organization by modifying logos, colors, and U
 ---
 
 ## 📸 Screenshots
-## Screenshots
 
 ### Branding Configuration
 ![Brands](./screenshots/brands.png)
@@ -37,7 +36,7 @@ Customize the branding of an Okta organization by modifying logos, colors, and U
 ![Dashboard](./screenshots/dashboard.png)
 
 ### Domains Tab
-![Domains](./screenshots/domains.png)
+![Domains](./screenshots/domain.png)
 
 ---
 
