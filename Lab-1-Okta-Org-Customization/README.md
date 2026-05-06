@@ -27,7 +27,7 @@ Customize the branding of an Okta organization by modifying logos, colors, and U
 ## 📸 Screenshots
 
 ### Branding Configuration
- ![Image Alt]([image_url](https://github.com/Kuhho/otka-iam-labs/blob/641852eadaef801b78abcf1e8c0767d0d926676b/Lab-1-Okta-Org-Customization%20/screenshots/brands.png))
+ ![Image Alt](https://github.com/Kuhho/otka-iam-labs/blob/641852eadaef801b78abcf1e8c0767d0d926676b/Lab-1-Okta-Org-Customization%20/screenshots/brands.png))
 
 ### Sign-In Page
  ![Image Alt](https://github.com/Kuhho/otka-iam-labs/blob/641852eadaef801b78abcf1e8c0767d0d926676b/Lab-1-Okta-Org-Customization%20/screenshots/signin.png)
