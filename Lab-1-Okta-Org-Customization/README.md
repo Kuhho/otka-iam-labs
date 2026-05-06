@@ -33,7 +33,7 @@ Customize the branding of an Okta organization by modifying logos, colors, and U
 ![Sign In](./screenshots/signin.png)
 
 ### End-User Dashboard
-![Dashboard]([./screenshots/dashboard.png](https://github.com/Kuhho/otka-iam-labs/blob/main/Lab-1-Okta-Org-Customization%20/screenshots/admin-dashboard.png?raw=true))
+ ![Image Alt](https://github.com/Kuhho/otka-iam-labs/blob/5d3ae907ff88eab584840c767536415a286eddce/Lab-1-Okta-Org-Customization%20/screenshots/admin-dashboard.png)
 
 ### Domains Tab
 ![Domains](./screenshots/domain.png)
