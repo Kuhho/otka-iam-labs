@@ -70,7 +70,7 @@ Create and manage users in Okta by configuring custom user attributes, creating 
 
 ![Password Reset Workflow](screenshots/09-password-reset-workflow.png)
 
-![Password Reset Status](screenshots/10-password-reset-status.png)
+ ![Image Alt](https://github.com/Kuhho/otka-iam-labs/blob/394b7dcf14b5d9dbeca82d2ff4034af124979a50/Lab-2-Define-Users/screenshots/10-%20password-reset-status.png)
 
 ![Temporary Password](screenshots/11-temporary-password.png)
 
