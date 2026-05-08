@@ -62,7 +62,7 @@ Create and manage users in Okta by configuring custom user attributes, creating 
 
 ### User Lifecycle Activity
 
-![User Lifecycle Activity](screenshots/08-User-lifecycle-activity.png)
+![User Lifecycle Activity](screenshots[/08-User-lifecycle-activity.png](https://github.com/Kuhho/otka-iam-labs/blob/12efe109d71dc393d98dfd7d311c875f3ab642df/Lab-2-Define-Users/screenshots/08%20-%20User%20-%20lifecycle%20-%20activity%20.png))
 
 ---
 
