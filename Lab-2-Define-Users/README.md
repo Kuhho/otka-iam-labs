@@ -90,7 +90,7 @@ Create and manage users in Okta by configuring custom user attributes, creating 
 
 ![Profile Mapping](screenshots/15-profile-mapping.png)
 
-![Workflows Sync Success](screenshots/16-workflows-sync-success.png)
+ ![Image Alt](https://github.com/Kuhho/otka-iam-labs/blob/a2f0166e5889f058de4574724052629fe3444ebd/Lab-2-Define-Users/screenshots/16-workflows-sync--success.png)
 
 ---
 
