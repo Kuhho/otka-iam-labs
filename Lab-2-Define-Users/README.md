@@ -1,12 +1,12 @@
-# Lab 2: Define Your Users in Okta
+#  🧪 Lab 2: Define Your Users in Okta
 
-## Objective
+## 🎯 Objective
 
 Create and manage users in Okta by configuring custom user attributes, creating user accounts, managing account lifecycle statuses, and testing profile attribute mappings.
 
 ---
 
-## Steps Performed
+## 🛠️ Steps Performed
 
 - Added a custom Region attribute to the Okta user profile
 - Created a new Okta user account
@@ -22,7 +22,7 @@ Create and manage users in Okta by configuring custom user attributes, creating 
 
 ---
 
-## Key IAM Concepts
+## 🔐 Key IAM Concepts
 
 - User provisioning
 - Custom user attributes
@@ -36,7 +36,7 @@ Create and manage users in Okta by configuring custom user attributes, creating 
 
 ---
 
-## Screenshots
+## 📸 Screenshots
 
 ### Custom Attribute Creation
 
@@ -94,7 +94,7 @@ Create and manage users in Okta by configuring custom user attributes, creating 
 
 ---
 
-## What I Learned
+## 💡 What I Learned
 
 - Custom attributes help structure identity data for users in Okta.
 - User lifecycle statuses show where an identity is in the onboarding, recovery, or offboarding process.
@@ -105,7 +105,7 @@ Create and manage users in Okta by configuring custom user attributes, creating 
 
 ---
 
-## Real-World Use Case
+## 🚀 Real-World Use Case
 
 Organizations use Okta user management to:
 
