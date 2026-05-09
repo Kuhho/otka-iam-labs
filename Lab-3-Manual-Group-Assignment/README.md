@@ -56,16 +56,17 @@ This reduces manual administration and improves scalability in large enterprise 
 ---
 
 ## Screenshots
-### Group Creation & User Assignment
-- 01-groups-page.png
-- 02-create-group.png
-- 03-assign-users.png
+## Screenshots
 
-### Group Rules & Automation
-- 04-group-rules-membership.png
-- 05-adding-rules-group.png
-- 06-verify-rules-group.png
-- 07-finance-accounting-group-rule.png
+| Screenshot | Description |
+|---|---|
+|  ![Image Alt](https://github.com/Kuhho/otka-iam-labs/blob/9ec9273cb1d0b6ee07881da5225b5180804e5bba/Lab-3-Manual-Group-Assignment/01-groups-page.png)| Shows the Okta Groups page used to begin group management. |
+| `02-create-group.png` | Shows the creation of a new group in Okta. |
+| `03-assign-users.png` | Shows users being manually assigned to a group. |
+| `04-groups-rules-membership.png` | Shows group rule membership verification. |
+| `05-adding-rules-group.png` | Shows the process of adding a group rule. |
+| `06-verify-rules-group.png` | Shows verification that the rule was applied. |
+| `07-finance-accounting-group-rule.png` | Shows an attribute-based group rule for Finance and Accounting users. |
 
 ---
 
