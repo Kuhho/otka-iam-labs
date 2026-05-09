@@ -12,6 +12,7 @@ This repository documents hands-on labs and projects related to Identity and Acc
 
 - [Lab 2: Define Your Users in Okta](Lab-2-Define-Users)
 
+- [Lab 3: Manual Group Assignment & Group Rules](Lab-3-Manual-Group-Assignment)
 ---
 
 # Skills Practiced
@@ -25,7 +26,10 @@ This repository documents hands-on labs and projects related to Identity and Acc
 - Identity synchronization
 - Authentication branding
 - Admin console navigation
-- IAM documentation
+- IAM documentation - Group-based access control
+- Role-based access control (RBAC)
+- Attribute-based access control (ABAC)
+- Group rule automation
 
 ---
 
