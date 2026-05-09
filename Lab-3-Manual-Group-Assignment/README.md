@@ -59,14 +59,13 @@ This reduces manual administration and improves scalability in large enterprise 
 
 | Screenshot | Description |
 |---|---|
-|  ![Image Alt](https://github.com/Kuhho/otka-iam-labs/blob/9ec9273cb1d0b6ee07881da5225b5180804e5bba/Lab-3-Manual-Group-Assignment/01-groups-page.png)| Shows the Okta Groups page used to begin group management. |
-| ![Image Alt](https://github.com/Kuhho/otka-iam-labs/blob/00479880bbfdf54271ec98a1b7f4ee8180f8739d/Lab-3-Manual-Group-Assignment/02-create-group.png) | Shows the creation of a new group in Okta. |
-| ![Image Alt](https://github.com/Kuhho/otka-iam-labs/blob/00479880bbfdf54271ec98a1b7f4ee8180f8739d/Lab-3-Manual-Group-Assignment/03-assign-users.png) | Shows users being manually assigned to a group. |
-| ![Image Alt] | Shows group rule membership verification. |
-| ![Image Alt] | Shows the process of adding a group rule. |
-| ![Image Alt] | Shows verification that the rule was applied. |
-| ![Image Alt]( | Shows an attribute-based group rule for Finance and Accounting users. |
-
+|  ![Image Alt](https://github.com/Kuhho/otka-iam-labs/blob/6b737fe22fb3e7688b9c297c44b4032e5b2d4d5c/Lab-3-Manual-Group-Assignment/01-groups-page.png) | Shows the Okta Groups page used to begin group management. |
+|  ![Image Alt](https://github.com/Kuhho/otka-iam-labs/blob/6b737fe22fb3e7688b9c297c44b4032e5b2d4d5c/Lab-3-Manual-Group-Assignment/02-create-group.png) | Shows the creation of a new group in Okta. |
+|  ![Image Alt](https://github.com/Kuhho/otka-iam-labs/blob/6b737fe22fb3e7688b9c297c44b4032e5b2d4d5c/Lab-3-Manual-Group-Assignment/03-assign-users.png) | Shows users manually assigned to the Executives group. |
+|  ![Image Alt](https://github.com/Kuhho/otka-iam-labs/blob/6b737fe22fb3e7688b9c297c44b4032e5b2d4d5c/Lab-3-Manual-Group-Assignment/04-groups-rules-membership.png) | Shows additional groups created for rule-based group membership. |
+|  ![Image Alt](https://github.com/Kuhho/otka-iam-labs/blob/6b737fe22fb3e7688b9c297c44b4032e5b2d4d5c/Lab-3-Manual-Group-Assignment/05-adding-rules-group.png) | Shows a group rule being configured based on existing group membership. |
+|  ![Image Alt](https://github.com/Kuhho/otka-iam-labs/blob/6b737fe22fb3e7688b9c297c44b4032e5b2d4d5c/Lab-3-Manual-Group-Assignment/06-verify-rules-group.png) | Shows the activated group rule and verification of the rule logic. |
+|  ![Image Alt](https://github.com/Kuhho/otka-iam-labs/blob/6b737fe22fb3e7688b9c297c44b4032e5b2d4d5c/Lab-3-Manual-Group-Assignment/07-finance-accounting-group-rule.png) | Shows an advanced attribute-based rule using department values for Finance and Accounting users. |
 ---
 
 ## Outcome
