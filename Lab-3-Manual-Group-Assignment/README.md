@@ -56,7 +56,6 @@ This reduces manual administration and improves scalability in large enterprise 
 ---
 
 ## Screenshots
-## Screenshots
 
 | Screenshot | Description |
 |---|---|
