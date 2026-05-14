@@ -101,7 +101,8 @@ Configured report settings for auditing administrator role assignments.
 
 Created a custom role for suspend and unsuspend user permissions.
 
-![Image Alt][(./screenshots/05-custom-role-created.png)](https://github.com/Kuhho/otka-iam-labs/blob/6a4e05a1ac618f5643d50c2cd10da41b3a5f0460/Lab-4-Define-Okta-Administrators/screenshots/05-custom-role-created.png)
+![Image Alt][[(./screenshots/05-custom-role-created.png)](https://github.com/Kuhho/otka-iam-labs/blob/6a4e05a1ac618f5643d50c2cd10da41b3a5f0460/Lab-4-Define-Okta-Administrators/screenshots/05-custom-role-created.png)](https://github.com/Kuhho/otka-iam-labs/blob/d9d5cf8fa3009f3d58b042dc158ad5b816057dc9/Lab-4-Define-Okta-Administrators/screenshots/05-custom-role-created.png)
+![Image Alt](
 
 ---
 
@@ -109,8 +110,7 @@ Created a custom role for suspend and unsuspend user permissions.
 
 Configured a resource set to scope delegated administrative access.
 
-![Image Alt][(./screenshots/06-create-resource-set.png)](https://github.com/Kuhho/otka-iam-labs/blob/6a4e05a1ac618f5643d50c2cd10da41b3a5f0460/Lab-4-Define-Okta-Administrators/screenshots/06-create-resource-set.png)
-
+![Image Alt](https://github.com/Kuhho/otka-iam-labs/blob/d9d5cf8fa3009f3d58b042dc158ad5b816057dc9/Lab-4-Define-Okta-Administrators/screenshots/06-create-resource-set.png)
 ---
 
 ### Step 8 — Audit Administrative Changes
