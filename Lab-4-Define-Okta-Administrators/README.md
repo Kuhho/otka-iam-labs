@@ -55,44 +55,66 @@ This lab demonstrates how to:
 
 ## Screenshots
 
-### Administrator Role Assignment
-![Administrator Role Assignment](./screenshots/01-administrators-page.png)
+## Screenshots
 
-### Help Desk Administrator Role
-![Help Desk Administrator Role](./screenshots/02-help-desk-admin-role.png)
+### Step 1 — Create Help Desk Group
 
-### Group Role Assignment
-![Group Role Assignment](./screenshots/03-add-help-desk-group-admin.png)
+Created a Help Desk group for delegated administrator access.
 
-### Kim Sun Role Verification
-![Kim Sun Role Verification](./screenshots/04-kim-sun-role-assignment.png)
+![Image Alt][(./screenshots/00-create-help-desk-group.png)](https://github.com/Kuhho/otka-iam-labs/blob/6a4e05a1ac618f5643d50c2cd10da41b3a5f0460/Lab-4-Define-Okta-Administrators/screenshots/00-create-help-desk-group.png)
 
-### Limited Admin Console Access
-![Limited Admin Console Access](./screenshots/05-kim-sun-admin-console-limited-access.png)
+---
 
-### Emma Costa User Actions
-![Emma Costa User Actions](./screenshots/06-emma-costa-more-actions.png)
+### Step 2 — Verify Group Creation
 
-### Administrator Overview
-![Administrator Overview](./screenshots/07-admin-overview.png)
+Verified the Help Desk group was successfully created in Okta.
 
-### Admin Role Assignment Report
-![Admin Role Assignment Report](./screenshots/08-admin-role-assignments-report.png)
+![Image Alt][(./screenshots/01-help-desk-group-created.png)](https://github.com/Kuhho/otka-iam-labs/blob/6a4e05a1ac618f5643d50c2cd10da41b3a5f0460/Lab-4-Define-Okta-Administrators/screenshots/01-help-desk-group-created.png)
 
-### System Log Audit Events
-![System Log Audit Events](./screenshots/09-system-log-admin-change.png)
+---
 
-### Custom Administrator Role
-![Custom Administrator Role](./screenshots/10-custom-role-suspend-unsuspend.png)
+### Step 3 — Administrator Overview Page
 
-### Resource Set Configuration
-![Resource Set Configuration](./screenshots/11-resource-set-all-users.png)
+Reviewed the Okta Administrators dashboard and administrative controls.
 
-### Custom Role Assignment
-![Custom Role Assignment](./screenshots/12-help-desk-custom-role-assignment.png)
+![Image Alt][(./screenshots/02-administrator-page.png)](https://github.com/Kuhho/otka-iam-labs/blob/6a4e05a1ac618f5643d50c2cd10da41b3a5f0460/Lab-4-Define-Okta-Administrators/screenshots/02-administrator-page.png)
 
-### Suspended User
-![Suspended User](./screenshots/13-emma-costa-suspended.png)
+---
 
-### Reactivated User
-![Reactivated User](./screenshots/14-emma-costa-active.png)
+### Step 4 — Assign Help Desk Administrator Role
+
+Assigned the Help Desk Administrator role to the Help Desk group.
+
+![Image Alt][(./screenshots/03-help-desk-admin-role-assigned.png)](https://github.com/Kuhho/otka-iam-labs/blob/6a4e05a1ac618f5643d50c2cd10da41b3a5f0460/Lab-4-Define-Okta-Administrators/screenshots/04-admin-role-assignments-report-settings.png)
+
+---
+
+### Step 5 — Configure Admin Role Assignment Report
+
+Configured report settings for auditing administrator role assignments.
+
+![Image Alt][(./screenshots/04-admin-role-assignments-report-settings.png)](https://github.com/Kuhho/otka-iam-labs/blob/6a4e05a1ac618f5643d50c2cd10da41b3a5f0460/Lab-4-Define-Okta-Administrators/screenshots/05-custom-role-created.png)
+
+---
+
+### Step 6 — Create Custom Administrator Role
+
+Created a custom role for suspend and unsuspend user permissions.
+
+![Image Alt][(./screenshots/05-custom-role-created.png)](https://github.com/Kuhho/otka-iam-labs/blob/6a4e05a1ac618f5643d50c2cd10da41b3a5f0460/Lab-4-Define-Okta-Administrators/screenshots/05-custom-role-created.png)
+
+---
+
+### Step 7 — Configure Resource Set
+
+Configured a resource set to scope delegated administrative access.
+
+![Image Alt][(./screenshots/06-create-resource-set.png)](https://github.com/Kuhho/otka-iam-labs/blob/6a4e05a1ac618f5643d50c2cd10da41b3a5f0460/Lab-4-Define-Okta-Administrators/screenshots/06-create-resource-set.png)
+
+---
+
+### Step 8 — Audit Administrative Changes
+
+Reviewed exported administrator role assignment and audit event logs.
+
+![Image Alt](https://github.com/Kuhho/otka-iam-labs/blob/6a4e05a1ac618f5643d50c2cd10da41b3a5f0460/Lab-4-Define-Okta-Administrators/screenshots/09-admin-changes-recent-events.png)
