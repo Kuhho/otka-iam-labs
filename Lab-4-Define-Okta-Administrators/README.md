@@ -61,7 +61,7 @@ This lab demonstrates how to:
 
 Created a Help Desk group for delegated administrator access.
 
-![Image Alt][(./screenshots/00-create-help-desk-group.png)](https://github.com/Kuhho/otka-iam-labs/blob/6a4e05a1ac618f5643d50c2cd10da41b3a5f0460/Lab-4-Define-Okta-Administrators/screenshots/00-create-help-desk-group.png)
+![Image Alt](https://github.com/Kuhho/otka-iam-labs/blob/199da4cbd5ba49e787f20a1c81629e67ec6d16f6/Lab-4-Define-Okta-Administrators/screenshots/00-create-help-desk-group.png)
 
 ---
 
@@ -69,7 +69,7 @@ Created a Help Desk group for delegated administrator access.
 
 Verified the Help Desk group was successfully created in Okta.
 
-![Image Alt][(./screenshots/01-help-desk-group-created.png)](https://github.com/Kuhho/otka-iam-labs/blob/6a4e05a1ac618f5643d50c2cd10da41b3a5f0460/Lab-4-Define-Okta-Administrators/screenshots/01-help-desk-group-created.png)
+![Image Alt](https://github.com/Kuhho/otka-iam-labs/blob/199da4cbd5ba49e787f20a1c81629e67ec6d16f6/Lab-4-Define-Okta-Administrators/screenshots/01-help-desk-group-created.png)
 
 ---
 
@@ -77,7 +77,7 @@ Verified the Help Desk group was successfully created in Okta.
 
 Reviewed the Okta Administrators dashboard and administrative controls.
 
-![Image Alt][(./screenshots/02-administrator-page.png)](https://github.com/Kuhho/otka-iam-labs/blob/6a4e05a1ac618f5643d50c2cd10da41b3a5f0460/Lab-4-Define-Okta-Administrators/screenshots/02-administrator-page.png)
+![Image Alt](https://github.com/Kuhho/otka-iam-labs/blob/199da4cbd5ba49e787f20a1c81629e67ec6d16f6/Lab-4-Define-Okta-Administrators/screenshots/02-administrator-page.png)
 
 ---
 
@@ -85,7 +85,7 @@ Reviewed the Okta Administrators dashboard and administrative controls.
 
 Assigned the Help Desk Administrator role to the Help Desk group.
 
-![Image Alt][(./screenshots/03-help-desk-admin-role-assigned.png)](https://github.com/Kuhho/otka-iam-labs/blob/6a4e05a1ac618f5643d50c2cd10da41b3a5f0460/Lab-4-Define-Okta-Administrators/screenshots/04-admin-role-assignments-report-settings.png)
+![Image Alt](https://github.com/Kuhho/otka-iam-labs/blob/199da4cbd5ba49e787f20a1c81629e67ec6d16f6/Lab-4-Define-Okta-Administrators/screenshots/04-admin-role-assignments-report-settings.png)
 
 ---
 
@@ -93,7 +93,7 @@ Assigned the Help Desk Administrator role to the Help Desk group.
 
 Configured report settings for auditing administrator role assignments.
 
-![Image Alt][(./screenshots/04-admin-role-assignments-report-settings.png)](https://github.com/Kuhho/otka-iam-labs/blob/6a4e05a1ac618f5643d50c2cd10da41b3a5f0460/Lab-4-Define-Okta-Administrators/screenshots/05-custom-role-created.png)
+![Image Alt](https://github.com/Kuhho/otka-iam-labs/blob/199da4cbd5ba49e787f20a1c81629e67ec6d16f6/Lab-4-Define-Okta-Administrators/screenshots/05-custom-role-created.png)
 
 ---
 
@@ -101,10 +101,7 @@ Configured report settings for auditing administrator role assignments.
 
 Created a custom role for suspend and unsuspend user permissions.
 
-![Image Alt][[(./screenshots/05-custom-role-created.png)](https://github.com/Kuhho/otka-iam-labs/blob/6a4e05a1ac618f5643d50c2cd10da41b3a5f0460/Lab-4-Define-Okta-Administrators/screenshots/05-custom-role-created.png)](https://github.com/Kuhho/otka-iam-labs/blob/d9d5cf8fa3009f3d58b042dc158ad5b816057dc9/Lab-4-Define-Okta-Administrators/screenshots/05-custom-role-created.png)
-![Image Alt](
-
----
+![Image Alt](https://github.com/Kuhho/otka-iam-labs/blob/d9d5cf8fa3009f3d58b042dc158ad5b816057dc9/Lab-4-Define-Okta-Administrators/screenshots/05-custom-role-created.png)
 
 ### Step 7 — Configure Resource Set
 
