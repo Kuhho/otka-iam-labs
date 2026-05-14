@@ -13,6 +13,8 @@ This repository documents hands-on labs and projects related to Identity and Acc
 - [Lab 2: Define Your Users in Okta](Lab-2-Define-Users)
 
 - [Lab 3: Manual Group Assignment & Group Rules](Lab-3-Manual-Group-Assignment)
+
+- [Lab 4: Define Okta Administrators](./Lab-4-Define-Okta-Administrators)
 ---
 
 # Skills Practiced
