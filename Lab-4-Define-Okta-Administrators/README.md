@@ -61,7 +61,7 @@ This lab demonstrates how to:
 
 Created a Help Desk group for delegated administrator access.
 
-![Image Alt](https://github.com/Kuhho/otka-iam-labs/blob/199da4cbd5ba49e787f20a1c81629e67ec6d16f6/Lab-4-Define-Okta-Administrators/screenshots/00-create-help-desk-group.png)|Created a Help Desk group for delegated administrator access. |
+![Image Alt](https://github.com/Kuhho/otka-iam-labs/blob/199da4cbd5ba49e787f20a1c81629e67ec6d16f6/Lab-4-Define-Okta-Administrators/screenshots/00-create-help-desk-group.png) | Created a Help Desk group for delegated administrator access. |
 
 ---
 
