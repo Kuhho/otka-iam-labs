@@ -8,16 +8,17 @@ This repository documents hands-on labs and projects related to Identity and Acc
 
 # Labs
 
-- [Lab 1: Customize Your Okta Org](Lab-1-Okta-Org-Customization)
+## Labs
 
-- [Lab 2: Define Your Users in Okta](Lab-2-Define-Users)
-
-- [Lab 3: Manual Group Assignment & Group Rules](Lab-3-Manual-Group-Assignment)
-
+- [Lab 1: Customize Your Okta Org](./Lab-1-Okta-Org-Customization)
+- [Lab 2: Define Your Users in Okta](./Lab-2-Define-Users)
+- [Lab 3: Manual Group Assignment & Group Rules](./Lab-3-Manual-Group-Assignment)
 - [Lab 4: Define Okta Administrators](./Lab-4-Define-Okta-Administrators)
+- [Lab 5: Implement Security Policies](./Lab-5-Implement-Security-Policies)
 ---
 
 # Skills Practiced
+## Skills Practiced
 
 - Okta Administration
 - Identity and Access Management (IAM)
@@ -28,19 +29,35 @@ This repository documents hands-on labs and projects related to Identity and Acc
 - Identity synchronization
 - Authentication branding
 - Admin console navigation
-- IAM documentation - Group-based access control
+- IAM documentation
+- Group-based access control
 - Role-based access control (RBAC)
 - Attribute-based access control (ABAC)
 - Group rule automation
+- Multi-Factor Authentication (MFA)
+- Authentication Policies
+- Global Session Policies
+- Password Policies
+- Network Zones
+- Conditional Access
+- Device Trust & Verification
+- Zero Trust Security Concepts
+- Authentication Monitoring & System Logs
 
 ---
 
 # Technologies Used
 
+## Technologies Used
+
 - Okta Admin Console
+- Okta Verify
+- Google Authenticator
 - Okta Workflows
 - Profile Editor
-
+- Authentication Policies
+- Network Zones
+- System Log Monitoring
 ---
 
 # Portfolio Goal
