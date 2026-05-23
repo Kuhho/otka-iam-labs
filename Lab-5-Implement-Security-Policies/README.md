@@ -126,4 +126,29 @@ Policy rules were successfully configured but full validation testing was deferr
 - Validate System Log policy evaluation events
 
 ### Status
+
 ⚠️ Pending Hands-On Validation
+## Password Policy Validation
+
+Validated password policy behavior and self-service recovery controls.
+
+### Password Policy Testing
+
+Tested password requirements by:
+
+- Signing in with a test account
+- Accessing Security Settings
+- Performing a password reset
+- Confirming password requirements were enforced
+- Verifying password policy restrictions
+
+### Self-Service Recovery Testing
+
+Reviewed account recovery workflow by:
+
+- Triggering failed sign-in attempts
+- Reviewing account lockout behavior
+- Validating self-service unlock and recovery controls
+- Confirming location-aware recovery restrictions
+
+### Validation Status
