@@ -92,3 +92,20 @@ The objective was to strengthen organizational security posture by enforcing con
 
 ## Real-World Use Case
 Organizations use these security controls to enforce MFA, reduce unauthorized access, protect accounts from risky sign-ins, and implement location-aware authentication policies.
+## Pending Validation / Follow-Up
+
+### Device Registration Testing
+
+This section was reviewed conceptually but full validation was not completed during the initial walkthrough due to unavailable preconfigured training users and enrolled devices.
+
+### Planned Follow-Up
+- Create test user
+- Assign Okta access
+- Enroll Okta Verify
+- Register device
+- Test device removal and re-enrollment
+- Review Directory → Devices
+- Validate Reset Authenticators workflow
+
+### Status
+⚠️ Pending Hands-On Validation
