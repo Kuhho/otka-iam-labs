@@ -109,3 +109,21 @@ This section was reviewed conceptually but full validation was not completed dur
 
 ### Status
 ⚠️ Pending Hands-On Validation
+
+## Pending Validation
+
+### Okta Dashboard Authentication Policy Testing
+
+Policy rules were successfully configured but full validation testing was deferred due to the absence of a dedicated pilot test user with enrolled MFA and dashboard access.
+
+### Planned Validation
+- Create pilot test user
+- Assign Okta Dashboard access
+- Add user to Pilot Users group
+- Enroll Okta Verify
+- Test Public Network rule
+- Test Corporate Network rule
+- Validate System Log policy evaluation events
+
+### Status
+⚠️ Pending Hands-On Validation
