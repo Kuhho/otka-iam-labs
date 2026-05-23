@@ -150,5 +150,3 @@ Reviewed account recovery workflow by:
 - Reviewing account lockout behavior
 - Validating self-service unlock and recovery controls
 - Confirming location-aware recovery restrictions
-
-### Validation Status
