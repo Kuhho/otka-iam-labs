@@ -55,29 +55,32 @@ The objective was to strengthen organizational security posture by enforcing con
 
 ## Screenshots
 
-### Corporate Network Zone
-![Corporate Network](screenshots/corporate-network-zone.png)
+## Screenshots
 
-### Allowed Countries Zone
-![Allowed Countries](screenshots/allowed-countries-zone.png)
-
-### Okta Verify Settings
-![Okta Verify](screenshots/okta-verify-settings.png)
-
-### Enrollment Policy
-![Enrollment Policy](screenshots/enrollment-policy.png)
-
-### Public Network Rule
-![Public Network](screenshots/public-network-rule.png)
-
-### Corporate Network Rule
-![Corporate Network Rule](screenshots/corporate-network-rule.png)
-
-### Password Policy
-![Password Policy](screenshots/password-policy.png)
-
-### System Log Events
-![System Log](screenshots/system-log-events.png)
+| Screenshot | Description |
+|---|---|
+| ![](screenshots/corporate-network-zone-config.png) | Shows the configuration of the Corporate Network IP Zone and gateway IP setup. |
+| ![](screenshots/corporate-network-zone-active.png) | Shows the Corporate Network zone successfully created and active. |
+| ![](screenshots/authentication-country-region.png) | Shows authentication activity used to identify the current country/region for Allowed Countries configuration. |
+| ![](screenshots/allowed-countries-config.png.png) | Shows the configuration of the Allowed Countries dynamic network zone. |
+| ![](screenshots/allowed-countries-active.png) | Shows the Allowed Countries zone active in Okta Networks. |
+| ![](screenshots/google-authenticator-added.png) | Shows Google Authenticator added as an authenticator in Okta. |
+| ![](screenshots/default-enrollment-policy.png) | Shows the default authenticator enrollment policy configuration. |
+| ![](screenshots/okta-verify-user-verification-settings.png) | Shows Okta Verify configuration with user verification settings enabled. |
+| ![](screenshots/okta-verify-enrollment-policy.png) | Shows the Okta Verify Enrollment Policy configuration. |
+| ![](screenshots/allow-enrollment-allowed-countries-rule.png) | Shows the enrollment rule allowing authentication enrollment from approved countries. |
+| ![](screenshots/deny-enrollment-rule.png) | Shows the deny enrollment rule blocking enrollment outside approved countries. |
+| ![](screenshots/enrollment-policy-rule-priority.png) | Shows enrollment policy rule priority and processing order. |
+| ![](screenshots/add-rule-session-policy-standard.png) | Shows the Standards Global Session Policy rule configuration before creation. |
+| ![](screenshots/global-session-policy-standards-config.png) | Shows session management settings including lifetime and idle timeout configuration. |
+| ![](screenshots/global-session-policy-standards-active.png.png) | Shows the Standards Global Session Policy active in Okta. |
+| ![](screenshots/restricted-countries-rule.png) | Shows authentication policy denying access from restricted countries. |
+| ![](screenshots/public-network-rule.png) | Shows authentication policy enforcing stronger MFA on public networks. |
+| ![](screenshots/corporate-network-rule.png) | Shows authentication policy allowing trusted corporate network access with MFA requirements. |
+| ![](screenshots/password-policy-employees.png) | Shows the employee password policy enforcing strong password requirements. |
+| ![](screenshots/allow-self-service-recovery-rule.png) | Shows the rule allowing self-service account recovery from approved countries. |
+| ![](screenshots/block-self-service-recovery-rule.png) | Shows the rule blocking self-service account recovery from restricted locations. |
+| ![](screenshots/password-policy-rule-priority.png) | Shows password policy rule order and recovery policy prioritization. |
 
 ---
 
