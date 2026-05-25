@@ -55,8 +55,6 @@ The objective was to strengthen organizational security posture by enforcing con
 
 ## Screenshots
 
-## Screenshots
-
 | Screenshot | Description |
 |---|---|
 | ![](screenshots/corporate-network-zone-config.png) | Shows the configuration of the Corporate Network IP Zone and gateway IP setup. |
