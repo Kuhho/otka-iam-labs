@@ -144,3 +144,8 @@ Organizations implement passwordless authentication to:
 - Enforce phishing-resistant access
 - Support Zero Trust security strategies
 - Strengthen identity and access management controls
+
+### 4. Device Management
+Reviewed Okta device registration and authenticator reset workflows.
+
+**Note:** Full device re-enrollment testing was deferred due to test-user enrollment and device registration requirements within the current lab environment. Administrative device inventory and authenticator reset processes were reviewed conceptually.
