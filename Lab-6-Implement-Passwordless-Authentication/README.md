@@ -79,55 +79,25 @@ Tested passwordless authentication and reviewed system logs to validate policy b
 
 ## Screenshots
 
-### Okta Verify User Verification
-<img width="900" alt="Okta Verify User Verification" src="screenshots/01-okta-verify-verification.png">
+## Screenshots
 
----
-
-### Allowed Countries Dynamic Zone
-<img width="900" alt="Allowed Countries Dynamic Zone" src="screenshots/02-allowed-countries-zone.png">
-
----
-
-### Enrollment Policy Configuration
-<img width="900" alt="Enrollment Policy Configuration" src="screenshots/03-enrollment-policy.png">
+| Screenshot | Description |
+|---|---|
+| <img width="900" alt="Okta Verify Settings" src="screenshots/01-okta-verify-settings-before.png"> | Shows the Okta Verify authenticator configuration settings before user verification requirements were enforced. |
+| <img width="900" alt="User Verification Required" src="screenshots/02-user-verification-required.png"> | Displays Okta Verify configured to require device passcode or biometric verification during enrollment. |
+| <img width="900" alt="Allowed Countries Zone" src="screenshots/03-allowed-countries-zone.png"> | Shows the Allowed Countries dynamic network zone configuration used for location-based policy enforcement. |
+| <img width="900" alt="Enrollment Policy Created" src="screenshots/04-enrollment-policy-created.png"> | Displays the Okta Verify enrollment policy created for Pilot Users and authenticator enforcement. |
+| <img width="900" alt="FastPass Possession Factor" src="screenshots/05-fastpass-possession-factor.png"> | Shows the Okta FastPass authentication rule configured with phishing-resistant possession factor requirements. |
 
 ---
 
 ### Device Management
-<img width="900" alt="Device Management" src="screenshots/04-device-management.png">
+**Note:** Full device re-enrollment testing was deferred due to test-user enrollment and device registration requirements within the current lab environment. Administrative device inventory and authenticator reset workflows were reviewed conceptually.
 
 ---
 
-### Global Session Policy
-<img width="900" alt="Global Session Policy" src="screenshots/05-global-session-policy.png">
-
----
-
-### FastPass Enabled
-<img width="900" alt="FastPass Enabled" src="screenshots/06-fastpass-enabled.png">
-
----
-
-### Restricted Countries Rule
-<img width="900" alt="Restricted Countries Rule" src="screenshots/07-restricted-countries-rule.png">
-
----
-
-### Okta FastPass Rule
-<img width="900" alt="Okta FastPass Rule" src="screenshots/08-fastpass-rule.png">
-
----
-
-### Authentication Testing
-<img width="900" alt="Authentication Testing" src="screenshots/09-authentication-testing.png">
-
----
-
-### System Log Validation
-<img width="900" alt="System Log Validation" src="screenshots/10-system-log-validation.png">
-
----
+### Authentication Testing and Logs
+**Note:** Full mobile FastPass testing was deferred due to test-user enrollment and mobile authenticator setup requirements within the current lab environment. Authentication policy evaluation and FastPass log review procedures were reviewed conceptually.
 
 ## What I Learned
 Passwordless authentication reduces dependence on passwords while improving security and user experience. Okta FastPass and authentication policies support phishing-resistant authentication and help organizations implement Zero Trust identity security models.
