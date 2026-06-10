@@ -15,6 +15,8 @@ This repository documents hands-on labs and projects related to Identity and Acc
 - [Lab 3: Manual Group Assignment & Group Rules](./Lab-3-Manual-Group-Assignment)
 - [Lab 4: Define Okta Administrators](./Lab-4-Define-Okta-Administrators)
 - [Lab 5: Implement Security Policies](./Lab-5-Implement-Security-Policies)
+- [Lab 6: Implement Passwordless Authentication](./Lab-6-Implement-Passwordless-Authentication)
+- [Lab 7: Manage Network Zones](./Lab-7-Manage-Network-Zones)
 ---
 
 # Skills Practiced
