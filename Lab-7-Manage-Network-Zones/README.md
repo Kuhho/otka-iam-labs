@@ -33,38 +33,47 @@ This lab demonstrates how to configure and manage Okta Network Zones to enforce 
 
 ## Screenshots
 
-### Corporate Network Zone
+## Screenshots
 
-*Screenshot will be added here.*
+### Security Networks Page
+![Security Networks Page](screenshots/01-security-networks-page.png)
 
-### Allowed Countries Dynamic Zone
+Navigated to Security > Networks to begin configuring Okta Network Zones.
 
-*Screenshot will be added here.*
+### Add IP Zone
+![Add IP Zone](screenshots/02-add-ip-zone.png)
 
-### Okta Verify Configuration
+Created an IP Network Zone for the corporate network.
 
-*Screenshot will be added here.*
+### System Log Country Lookup
+![System Log Country Lookup](screenshots/03-system-log-country.png)
+
+Reviewed authentication activity in the System Log to identify the country/region for the Allowed Countries Dynamic Zone.
+
+### Add Dynamic Zone
+![Add Dynamic Zone](screenshots/04-add-dynamic-zone.png)
+
+Created a Dynamic Network Zone for allowed countries.
+
+### Okta Verify Settings
+![Okta Verify Settings](screenshots/05-okta-verify-settings.png)
+
+Opened the Okta Verify authenticator settings to modify available verification methods.
+
+### Okta Verify Enabled Options
+![Okta Verify Enabled Options](screenshots/06-okta-verify-enabled-options.png)
+
+Enabled TOTP, Push Notification, and Okta FastPass for Okta Verify.
+
+### Okta Dashboard Policy
+![Okta Dashboard Policy](screenshots/07-okta-dashboard-policy.png)
+
+Opened the Okta Dashboard authentication policy to configure network-based access rules.
 
 ### Restricted Countries Rule
+![Restricted Countries Rule](screenshots/08-restricted-countries-rule.png)
 
-*Screenshot will be added here.*
-
-### Public Network Rule
-
-*Screenshot will be added here.*
-
-### Corporate Network Rule
-
-*Screenshot will be added here.*
-
-### Authentication Policy Testing
-
-*Screenshot will be added here.*
-
-### Tor Anonymizer Blocking
-
-*Screenshot will be added here.*
-
+Created a Restricted Countries rule to deny access when Pilot Users sign in from outside the Allowed Countries zone.
 ## Lessons Learned
 
 This lab strengthened my understanding of how Okta uses Network Zones and authentication policies to enforce location-based access controls and reduce authentication risk.
